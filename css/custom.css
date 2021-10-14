@@ -1,0 +1,23 @@
+header .navbar .navbar-brand img{
+	position: relative;
+    height: 120px;
+    margin-bottom: -48px;
+    margin-top: -40px;
+    left: -20px;
+}	
+
+header.menu-sticky{
+	background-color: #20303c;
+}
+
+footer .footer-topbar{
+	background-color: #20303c
+}
+
+footer{
+	background-color: #010C33;
+}
+
+footer .footer-top .widget .textwidget img{
+	width: 150px;
+}
